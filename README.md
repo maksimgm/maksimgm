@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there! :wave:
 
-<!--
-**maksimgm/maksimgm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Maksim, a frontend and full-stack engineer based in Los Angeles. These days you'll
+mostly find me contributing to open source around JavaScript tooling and UI libraries.
 
-Here are some ideas to get you started:
+**Regular Contributor:**
+[e18e](https://e18e.dev) ([module-replacements](https://github.com/e18e/module-replacements)) -
+[MUI](https://github.com/mui/material-ui)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Contributing to:**
+[typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) -
+[PyTorch Lightning](https://github.com/Lightning-AI/pytorch-lightning)
+
+I'm currently open to senior frontend and full-stack engineering roles.
